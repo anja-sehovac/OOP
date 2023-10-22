@@ -4,7 +4,7 @@ import java.util.Scanner;
 // then press Enter. You can now see whitespace characters in your code.
 public class tasks19 {
 
-        /*1
+
         System.out.println("Choose your password: ");
         String password = reader.nextLine();
         while (true){
@@ -14,7 +14,7 @@ public class tasks19 {
                 System.out.println("You unlocked a secret message!");
                 break;
             }
-        }*/
+
 
         /*2
         int sum=0;
@@ -97,7 +97,7 @@ public class tasks19 {
                 System.out.print("j");
             }
             System.out.println();
-        }
+        }*/
 
-    }*/
+    }
 }
