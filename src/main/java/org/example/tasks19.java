@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class tasks19 {
 
 
-        System.out.println("Choose your password: ");
+        /*System.out.println("Choose your password: ");
         String password = reader.nextLine();
         while (true){
             System.out.println("Enter your password: ");
@@ -13,7 +13,7 @@ public class tasks19 {
             if (password1.equals(password)){
                 System.out.println("You unlocked a secret message!");
                 break;
-            }
+            }*/
 
 
         /*2
@@ -99,5 +99,5 @@ public class tasks19 {
             System.out.println();
         }*/
 
-    }
-}
+    /*}
+}*/
