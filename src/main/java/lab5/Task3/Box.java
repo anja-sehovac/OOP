@@ -4,7 +4,7 @@ import java.util.Collection;
 
 abstract class Box {
 
-    public abstract void add(Thing thing);
+    /*public abstract void add(Thing thing);
 
     public void add(Collection<Thing> things){
         for (Thing thing : things){
@@ -42,5 +42,5 @@ class Thing{
     @Override
     public int hashCode(){
 
-    }
+    }*/
 }
